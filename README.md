@@ -1,5 +1,5 @@
-# Project 1: Rasterizer
+# Homework 1: Rasterizer
 
-> Spring 2023
+> Spring 2024
 
-[Project Specs](https://cs184.eecs.berkeley.edu/sp23/docs/proj1-spec)
+[Homework Specs](https://cs184.eecs.berkeley.edu/sp24/docs/hw1-spec)
