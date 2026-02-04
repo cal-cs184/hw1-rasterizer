@@ -1,7 +1,7 @@
 # Original file Copyright CMU462 Fall 2015: 
 # Kayvon Fatahalian, Keenan Crane,
 # Sky Gao, Bryce Summers, Michael Choquette.
-cmake_minimum_required(VERSION 3.1)
+cmake_minimum_required(VERSION 3.8)
 
 project(CGL LANGUAGES C CXX VERSION 2020.0)
 
@@ -146,3 +146,4 @@ endif()
 set(CMAKE_INSTALL_PREFIX "${CGL_SOURCE_DIR}")
 
 set(CGL_CXX_FLAGS "${CGL_CXX_FLAGS}" PARENT_SCOPE)
+
